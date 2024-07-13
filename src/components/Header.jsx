@@ -3,7 +3,7 @@ import React from "react";
 const Header = () => {
   return (
     <>
-      <div className="px-7">
+      <div className="px-7 font-medium">
         <div className="flex items-center justify-between">
           <h4>portfolio</h4>
           <div className="flex gap-10">
